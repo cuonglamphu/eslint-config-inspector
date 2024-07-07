@@ -1871,7 +1871,7 @@
             "jsx": true
           },
           "project": "./tsconfig.json",
-          "tsconfigRootDir": "/home/runner/work/cuongday.com/cuongday.com/packages/eslint-config",
+          "tsconfigRootDir": "C:\\Users\\PC\\Desktop\\2\\porfolio\\cuongday.com\\cuongday.com\\packages\\eslint-config",
           "sourceType": "module"
         }
       },
@@ -12331,7 +12331,7 @@
     }
   ],
   "meta": {
-    "lastUpdate": 1720357229097,
+    "lastUpdate": 1720357395783,
     "basePath": "",
     "configPath": ""
   }
